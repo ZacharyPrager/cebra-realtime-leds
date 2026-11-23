@@ -1,0 +1,3 @@
+cebra[datasets]==0.6.1
+pyserial>=3.5
+matplotlib>=3.8

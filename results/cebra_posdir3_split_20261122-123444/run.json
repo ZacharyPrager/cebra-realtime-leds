@@ -1,0 +1,15 @@
+{
+  "model": "/home/zach/Projects/cebra-realtime-leds/models/cebra_posdir3_split.pt",
+  "control": false,
+  "hardware": true,
+  "n_steps": 2036,
+  "delay_ms": 100.0,
+  "median_error_m": 0.07741287350654602,
+  "latency_ms": {
+    "mean": 10.688854089372766,
+    "p99": 12.009762100569791,
+    "max": 13.805725999191054
+  },
+  "over_budget_steps": 0,
+  "ack_errors": 0
+}

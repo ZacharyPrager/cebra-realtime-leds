@@ -1,0 +1,15 @@
+{
+  "model": "models/cebra_posdir3_shuffled_split.pt",
+  "control": true,
+  "hardware": true,
+  "n_steps": 2036,
+  "delay_ms": 100.0,
+  "median_error_m": 0.47450965642929077,
+  "latency_ms": {
+    "mean": 10.906840106618464,
+    "p99": 12.151878201530053,
+    "max": 18.005754000114393
+  },
+  "over_budget_steps": 0,
+  "ack_errors": 0
+}

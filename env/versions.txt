@@ -1,0 +1,4 @@
+python 3.14.7
+torch 2.15.0+cpu
+cebra 0.6.1
+numpy 2.5.5 sklearn 1.9.1 pyserial 3.5
